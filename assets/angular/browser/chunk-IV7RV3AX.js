@@ -1,0 +1,1 @@
+import{Jb as s,Ta as m,m as r,r as i,yb as e,zb as t}from"./chunk-SGI6ODGM.js";var f=(()=>{class o{static \u0275fac=function(d){return new(d||o)};static \u0275mod=i({type:o});static \u0275inj=r({imports:[e,t,m,e,t,s]})}return o})();export{f as a};
