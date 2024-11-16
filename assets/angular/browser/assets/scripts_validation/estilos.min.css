@@ -4,8 +4,8 @@
   --color-fuenteModalContrario:#000; /*COLOR SECUNDARIO/
   /* PARA FORMS INPUTS*/
   /* IFA */
-  --color-fuerte:#ac1905;
-  --color-debil:#ec9696;
+  /* --color-fuerte:#ac1905;
+  --color-debil:#ec9696; */
 
   /* PARA BELLAS ARTES */
   /* --color-fuerte:#ed710c;
@@ -13,10 +13,14 @@
   /* PARA KOLKLORE */
   /* --color-fuerte:#0b92a7;
   --color-debil:#8bc5ce; */
+
+  --color-fuerte:#555555;
+  --color-debil:#aaaaaa;
+
   /* PARA PAGINA Y FORMS*/
   /* IFA */
-  --color-fuerteP:#750202;
-  --color-debilP:#e99898;
+  /* --color-fuerteP:#750202;
+  --color-debilP:#e99898; */
   /* PARA BELLAS ARTES */
   /* --color-fuerteP:#ca5b00;
   --color-debilP:#fcd1ae; */
@@ -24,12 +28,15 @@
   /* --color-fuerteP:#136673;
   --color-debilP:#c2e6f8; */
 
+  --color-fuerteP:#727272;
+  --color-debilP:#d8d8d8;
+
   /*METALICOS*/
   /*IFA*/
-  --color-metalico-fuerte: #a00e0e;
+  /* --color-metalico-fuerte: #a00e0e;
   --color-metalico-debil: #f0b1b1;
   --color-metalico-claro: #f5c6c6;
-  --color-metalico-oscuro: #500101;
+  --color-metalico-oscuro: #500101; */
 
   /*BELLAS ARTES*/
   /* --color-metalico-fuerte: #d65f0b;
@@ -42,6 +49,13 @@
   --color-metalico-debil: #a1d3d9;
   --color-metalico-claro: #d4eff4;
   --color-metalico-oscuro: #0a5b65; */
+
+  --color-metalico-fuerte: #6d6d6d; /* Un gris oscuro metálico con brillo */
+  --color-metalico-debil: #a6a6a6; /* Un gris claro con un toque de brillo metálico */
+  --color-metalico-claro: #f0f0f0; /* Un blanco con reflejos metálicos */
+  --color-metalico-oscuro: #1c1c1c; /* Un negro con un toque de gris para darle un efecto metálico */
+
+
 }
 /* Animación de fondo metálico */
 @keyframes moveGradient {
